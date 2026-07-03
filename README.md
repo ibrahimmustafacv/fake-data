@@ -1,3 +1,4 @@
+![Logo](Logo.png)
 # Fake Data Generator - مولد البيانات الوهمية
 
 A modern, multilingual fake data generator web application that supports both Arabic and English languages with full RTL (right-to-left) support. Generate realistic test data for development, testing, and privacy protection purposes.
